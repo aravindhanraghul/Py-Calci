@@ -1,2 +1,0 @@
-# Py-Calci
-Calculator
